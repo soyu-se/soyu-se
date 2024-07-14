@@ -1,19 +1,18 @@
-<img width=1010 alt="Coding" src="https://gist.githubusercontent.com/Prince-Shivaram/106aa0f37f016eda7ec65de5acb90471/raw/760aff1fe331f8a445d4573aa88fd2ec16e72b83/My-work.gif"><br>
-
 <h1 align="center">Welcome to my GitHub Page👋👋👋, I'm Pham Duy Hoang</h1>
 <h3 align="center">A passionate Backend Web Developer Internship from Vietnam</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=soyu-se&label=Profile%20views&color=0e75b6&style=flat" alt="soyu-se" /> </p>
+<img width=400 align="right" src="https://angularexperts.io/assets/images/products/skol/skol-product-placement.svg" alt="Coding" />
 
-- 🔭 I’m currently studying at **FPT University HCM**
+- 🔭 I’m currently studying at: **FPT University HCM**
 
-- 🌱 I’m currently learning **ASP.NET Core API and a little bit about Mobile**
+- 🌱 I’m currently learning: **ASP.NET Core API and a little bit about Mobile**
 
-- 💬 Ask me about **Java, C#, SQL**
+- 💬 Ask me about: **Java, C#, SQL**
 
-- 📫 How to reach me **hoangpdse172046@fpt.edu.vn**
+- 📫 How to reach me: **hoangpdse172046@fpt.edu.vn**
 
-- ⚡ Fun fact **I love reading book alone and overthinking. Very cool, right?** 
+- ⚡ Fun fact: **I love reading book alone and overthinking. Very cool, right?** 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -26,10 +25,8 @@
 <span>
   <p align="left"><img width=500 src="https://github-readme-stats.vercel.app/api/top-langs?username=soyu-se&show_icons=true&locale=en&layout=compact" alt="soyu-se" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=soyu-se&" alt="soyu-se" /></p>
   <p align="right">  </p><br>
+  <p size=10 align="center"><img width=1010 src="https://github-readme-stats.vercel.app/api?username=soyu-se&show_icons=true&locale=en" alt="soyu-se" /></p>
 </span>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=soyu-se&show_icons=true&locale=en" alt="soyu-se" /></p>
-
-
 
 <h2>Individual projects</h2>
 <a href="https://github.com/soyu-se/soyu-se.github.io">
@@ -38,7 +35,7 @@
 </a>
 
 <h2>Group projects</h2>
-<a href="https://github.com/soyu-se/soyu-se.github.io">
+<a href="https://github.com/Rivinger7/KATH">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=soyu-se&repo=soyu-se.github.io&theme=react&show_icons=true"/>
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Rivinger7&repo=KATH&theme=react&show_icons=true"/>
 </a>
