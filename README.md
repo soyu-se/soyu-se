@@ -1,4 +1,5 @@
-<img align="right" alt="Coding" width=400  src="https://gist.githubusercontent.com/Prince-Shivaram/106aa0f37f016eda7ec65de5acb90471/raw/760aff1fe331f8a445d4573aa88fd2ec16e72b83/My-work.gif">
+<img align="right" alt="Coding" src="https://gist.githubusercontent.com/Prince-Shivaram/106aa0f37f016eda7ec65de5acb90471/raw/760aff1fe331f8a445d4573aa88fd2ec16e72b83/My-work.gif"><br>
+
 <h1 align="center">Welcome to my GitHub Page👋👋👋, I'm Pham Duy Hoang</h1>
 <h3 align="center">A passionate Backend Web Developer Internship from Vietnam</h3>
 
