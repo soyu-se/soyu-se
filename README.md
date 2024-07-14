@@ -1,6 +1,6 @@
+<img align="right" alt="Coding" width=400  src="https://gist.githubusercontent.com/Prince-Shivaram/106aa0f37f016eda7ec65de5acb90471/raw/760aff1fe331f8a445d4573aa88fd2ec16e72b83/My-work.gif">
 <h1 align="center">Welcome to my GitHub Page👋👋👋, I'm Pham Duy Hoang</h1>
 <h3 align="center">A passionate Backend Web Developer Internship from Vietnam</h3>
-<img align="right" alt="Thinking" width=400  src="https://iconscout.com/lottie-animation/man-doing-binary-coding-on-laptop-11079466">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=soyu-se&label=Profile%20views&color=0e75b6&style=flat" alt="soyu-se" /> </p>
 - 🔭 I’m currently studying at **FPT University HCM**
