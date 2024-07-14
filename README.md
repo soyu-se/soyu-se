@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+![Anurag's GitHub stats](https://https://github.com/soyu-se/soyu-se.github.io?username=soyu-se&theme=react_icons=true)
 <!--
 **soyu-se/soyu-se** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
