@@ -1,7 +1,17 @@
 <h1 align="center">Welcome to my GitHub Page👋👋👋, I'm Pham Duy Hoang</h1>
-<h3 align="center">A passionate Backend Developer from Vietnam</h3>
+<h3 align="center">A passionate Backend Web Developer Internship from Vietnam</h3>
+<img align="right" alt="Thinking" width=400  src="https://iconscout.com/lottie-animation/man-doing-binary-coding-on-laptop-11079466">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=soyu-se&label=Profile%20views&color=0e75b6&style=flat" alt="soyu-se" /> </p>
+- 🔭 I’m currently studying at **FPT University HCM**
+
+- 🌱 I’m currently learning **ASP.NET Core API and a little bit about Mobile**
+
+- 💬 Ask me about **Java, C#, SQL**
+
+- 📫 How to reach me **hoangpdse172046@fpt.edu.vn**
+
+- ⚡ Fun fact **I love reading book alone and overthinking. Very cool, right?** 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -17,8 +27,14 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=soyu-se&" alt="soyu-se" /></p>
 
+<h2>Individual projects</h2>
 <a href="https://github.com/soyu-se/soyu-se.github.io">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=soyu-se&repo=soyu-se.github.io&theme=react&show_icons=true"/>
 </a>
 
+<h2>Group projects</h2>
+<a href="https://github.com/soyu-se/soyu-se.github.io">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=soyu-se&repo=soyu-se.github.io&theme=react&show_icons=true"/>
+</a>
