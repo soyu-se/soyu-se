@@ -24,7 +24,6 @@
 
 <span>
   <p align="left"><img width=480 src="https://github-readme-stats.vercel.app/api/top-langs?username=soyu-se&show_icons=true&locale=en&layout=compact" alt="soyu-se" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=soyu-se&" alt="soyu-se" /></p>
-  <p align="right">  </p><br>
   <p size=10 align="center"><img width=1010 src="https://github-readme-stats.vercel.app/api?username=soyu-se&show_icons=true&locale=en" alt="soyu-se" /></p>
 </span>
 
