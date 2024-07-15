@@ -30,13 +30,13 @@
 </span>
 
 <h2>Individual projects</h2>
-<a href="https://github.com/soyu-se/soyu-se.github.io">
+<a href="https://github.com/soyu-se/E-commerce_WebAPI">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=soyu-se&repo=soyu-se.github.io&theme=react&show_icons=true"/>
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=soyu-se&repo=E-commerce_WebAPI&theme=react&show_icons=true"/>
 </a>
 
 <h2>Group projects</h2>
-<a href="https://github.com/Rivinger7/KATH">
+<a href="https://github.com/soyu-se/Bookstore-KATH-JavaWeb">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Rivinger7&repo=KATH&theme=react&show_icons=true"/>
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=soyu-se&repo=Bookstore-KATH-JavaWeb&theme=react&show_icons=true"/>
 </a>
