@@ -40,3 +40,7 @@
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=soyu-se&repo=Bookstore-KATH-JavaWeb&theme=react&show_icons=true"/>
 </a>
+<a href="https://github.com/hoapooh/Dental-Care-HTDAH">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=hoapooh&repo=Dental-Care-HTDAH&theme=react&show_icons=true"/>
+</a>
